@@ -1,5 +1,5 @@
 //2023.5.7
-// design of a counter 
+// design of a 8bit counter 
 
 `timescale 1ns/10ps
 module counter (
